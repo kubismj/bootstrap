@@ -1,0 +1,10 @@
+div.container {
+    background-color: lightgrey;
+    height: 100px;
+}
+div.container-example {
+    background-color: aquamarine;
+}
+div.container-fluid-example {
+    background-color: bisque;
+}
